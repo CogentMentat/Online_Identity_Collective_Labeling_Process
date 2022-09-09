@@ -1,5 +1,5 @@
 # Online Identity as a Collective Labeling Process: Data and Code
-Data and code accompanying article "Online Identity as a Collective Labeling Process" by Alexander T. J. Barron and Johan Bollen.
+Data and code accompanying article "Online Identity as a Collective Labeling Process" by Alexander T. J. Barron, Marijn ten Thij, and Johan Bollen.
 
 Measurements and figures can be reproduced from the Jupyter notebooks and the data included.  Specific results from our analysis are saved in `.pkl` (python [pickle](https://docs.python.org/3/library/pickle.html)) files, which can be loaded in the notebooks.  Alternatively, slightly different results (from random variation in inference, etc.) can be created by running notebook code and saving new file versions.
 
