@@ -5,7 +5,7 @@ Measurements and figures can be reproduced from the Jupyter notebooks and the da
 
 Per the Twitter Developer Agreement and Policy, raw tweet and profile data is not allowed to be redistributed, but we do include a file of Twitter User IDs used in our analysis, described below.
 
-Archived at Zenodo: ![DOI](https://zenodo.org/badge/534817418.svg)](https://zenodo.org/badge/latestdoi/534817418)
+Archived at Zenodo: [![DOI](https://zenodo.org/badge/534817418.svg)](https://zenodo.org/badge/latestdoi/534817418)
 
 ## Files
 
